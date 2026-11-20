@@ -1,4 +1,4 @@
-# 20 November 2026 — World News in One Image
+# 20 November 2026: World News in One Image
 
 [![Rank](https://make.fun/badge/news-image-20261120/jepebrutal030-web/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![Reward](https://make.fun/badge/news-image-20261120/jepebrutal030-web/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
@@ -8,12 +8,13 @@ One 1024&times;1024 infographic summing up the world news of **20 November 2026*
 built for the [make.fun news-image-20261120 competition](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 ($250 pot, top 50 paid).
 
-The layout leads with the six biggest stories of the day — a historic court
+The layout leads with the six biggest stories of the day. A historic court
 ruling, a first-ever trilateral summit, a record AI IPO, a missile strike on
-Riyadh, a global market sell-off and another Kerch Bridge strike — and closes
-with an **IN BRIEF** strip of the day's other headlines. Every story below was
-checked against same-day reporting before it was drawn, including the ICJ vote
-(9-6), the Anthropic close (~$97 vs an $83 offer) and the Nikkei drop (4.8%).
+Riyadh, a global market sell-off and another Kerch Bridge strike fill the grid,
+and an **IN BRIEF** strip closes the page with the day's other headlines.
+Every story below was checked against same-day reporting before it was drawn,
+including the ICJ vote (9-6), the Anthropic close (~$97 vs an $83 offer) and
+the Nikkei drop (4.8%).
 
 ![World news of 20 November 2026](assets/entry.png)
 
@@ -21,7 +22,7 @@ checked against same-day reporting before it was drawn, including the ICJ vote
 
 1. **World Court: Myanmar committed genocide.** The International Court of
    Justice rules 9-6 that Myanmar's 2017 crackdown on the Rohingya was
-   genocide — the first such finding against a state.
+   genocide. It is the first such finding against a state.
 2. **Trump, Xi and Putin meet in Shenzhen.** The leaders of the US, China and
    Russia hold their first-ever three-way summit on the APEC sidelines and
    sign a four-point Declaration toward Peace.
@@ -58,3 +59,5 @@ No network access is needed at run time. Python 3 only, standard library only.
 ## Preview
 
 Open `index.html` in a browser to see the image together with the story list.
+
+Sources: Reuters, AP, BBC, Al Jazeera, The Hindu. Reported 20 November 2026.
